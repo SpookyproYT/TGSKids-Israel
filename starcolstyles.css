@@ -1,0 +1,25 @@
+body {
+ background-color: rgb(55, 153, 233);
+}
+h1 {
+ font-family: Secular One;
+ text-align: center;
+}
+p {
+ font-family: Secular One;
+ text-align: center;
+ font-size: 30px
+}
+button {
+ background-color: #24e42a;
+ border-radius: 10%;
+ color: rgb(0, 0, 0);
+ text-align: center;
+ font-size: 22px;
+ font-family: Secular One;
+ margin-left: 20px;
+ border: 3px solid rgb(0, 0, 0);
+}
+img {
+ border: 5px solid rgb(0, 0, 0);
+}
